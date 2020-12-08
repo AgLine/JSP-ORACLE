@@ -13,3 +13,7 @@ https://freehoon.tistory.com/139
 
 오라클DB 데이터가져오기
 http://ontheinfo.com/2078
+
+servelt의 개념 https://velog.io/@dnjstjq25/JSP-정리
+
+
