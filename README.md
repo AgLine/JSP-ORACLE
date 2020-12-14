@@ -17,3 +17,5 @@ http://ontheinfo.com/2078
 servelt의 개념 https://velog.io/@dnjstjq25/JSP-정리
 
 
+
+WEB-INF는 사용자가 접근할 수 없는 디렉토리이다.
